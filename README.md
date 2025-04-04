@@ -73,25 +73,6 @@ docker-compose up --build
 #
 
 ### App Preview :
-
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Landing page
-</p>
-<img src="https://github.com/user-attachments/assets/4ad0405f-d46d-4f46-82b7-f39f90875b6c">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  More view on landing page
-</p>
-<img src="https://github.com/user-attachments/assets/3332518f-035b-4b89-b87e-9d96d1e6fdd9">  
-</td>
-</table>
 ------------------
 <table width="100%"> 
 <tr>
