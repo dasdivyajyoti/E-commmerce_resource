@@ -146,7 +146,7 @@ You can check up django documentation page for any further information.
 
 Divyajyoti Das
 
-This project is built using django framework by IN MYO SWE it was up and pushed on his git hub repo.(https://github.com/sajib1066/django-ecommerce.git)
+This project is built using django framework by sajib it was up and pushed on his git hub repo.(https://github.com/sajib1066/django-ecommerce.git)
 
 Just for study and development purpose, application has been successfully dockerized and deployed using prduction class WSGI HTTP server (Gunicorn) primarily used to serve web application which are built using frameworks like Django and flask.
  
